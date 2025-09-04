@@ -13,7 +13,7 @@ const FetchData = () => {
 
     console.log(result);
   };
-  return <div>FetchData</div>;
+  return <div>FetchData see console</div>;
 };
 
 export default FetchData;
